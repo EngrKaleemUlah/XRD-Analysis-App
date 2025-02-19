@@ -1,4 +1,4 @@
-**Description:**
+### Description:
 
 Welcome to the XRD Analysis App repository! This project is a powerful and user-friendly application designed to streamline X-Ray Diffraction (XRD) data analysis. Whether you're a researcher, student, or professional in materials science, chemistry, or physics, this tool aims to simplify the process of interpreting XRD patterns and extracting meaningful insights.
 
@@ -10,7 +10,7 @@ Welcome to the XRD Analysis App repository! This project is a powerful and user-
 - **Peak Analysis**: Automated and manual peak detection with options for fitting and refinement.
 - **Phase Identification**: Compare your data with reference patterns to identify crystalline phases.
 - **Normalization Options**: Change range for  your analysis results in various ranges for further use or reporting.
-- **Statistical Measures Options**: Apply mean as overlapping [Stride = 1] or non-overlapping [stride of window size].
+- **Statistical Measures Options**: Apply mean as overlapping [Stride = 1] or non-overlapping [Stride of window size].
   
 ---
 
@@ -20,7 +20,7 @@ This repository hosts the first version of the app, which is live for demonstrat
 ---
 
 ### How to Use:
-Click [Here]
+Click [<a href="https://xrd-analysis-app.streamlit.app/" > Here</a> ]
 
 ### Contribution:
 Contributions, bug reports, and feature requests are welcome! If you'd like to contribute, please feel free to Email me.
